@@ -15,7 +15,7 @@ https://github.com/tushar0305/wobot-assignment.git
 
 2. Change into the repository directory:
 ```
-cd todo-app
+cd wobot-assignment
 ```
 
 3. Install the required packages:
