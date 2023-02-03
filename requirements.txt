@@ -1,0 +1,4 @@
+fastapi
+mysql.connector
+pydantic
+uvicorn
